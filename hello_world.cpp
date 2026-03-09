@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Main function
+// Основная функция
 int
 main()
 {
